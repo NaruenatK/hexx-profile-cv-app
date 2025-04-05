@@ -23,7 +23,7 @@ function Profile() {
             <Box>
                 <AppBar position="static">
                     <Toolbar sx={{ backgroundColor: 'black' }}>
-                        <Typography sx={{ color: '#FFFFFF', ml: '10px', flexGrow: 1 }}>
+                        <Typography sx={{ color: '#FFFFFF', ml: '520px', flexGrow: 1 }}>
                             NARUENAT KUMHIRAN
                         </Typography>
                         <Typography sx={{
@@ -47,7 +47,7 @@ function Profile() {
                             About
                         </Typography>
                         <Typography sx={{
-                            mr: '20px',
+                            mr: '540px',
                             textDecoration: 'none',
                             color: '#FFFFFF',
                             fontWeight: 'light'

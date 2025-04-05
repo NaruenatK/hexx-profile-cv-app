@@ -10,7 +10,6 @@ import Image2 from '../components/Image2';
 import DownloadButton from './../components/DownloadButton'
 import LinkedInButton from '../components/LinkedInButton';
 import GitHubButton from '../components/GitHubButton';
-import { Stack } from "@mui/material";
 import CustomChip from "../Components/CustomChip";
 import ImportContactsIcon from '@mui/icons-material/ImportContacts';
 import StarsIcon from '@mui/icons-material/Stars';
@@ -91,7 +90,7 @@ function Profile() {
                             fontSize: '10px',
                             fontWeight: 'light',
                             marginTop: '10px',
-                            color: '#c7c7c7'
+                            
                         }}>
                             Hello I'm Nine From The Lands Between a Hopeless Soul
                         </Typography>
@@ -192,6 +191,7 @@ function Profile() {
                 }}>
                     <Typography sx={{
                         flex: 1,
+                        color: 'gray',
                         ml: '340px',
                         mt: '20px',
                         fontWeight: '400',
@@ -325,6 +325,7 @@ function Profile() {
                 }}>
                     <Typography sx={{
                         flex: 1,
+                        color: 'gray',
                         mt: '20px',
                         ml: '340px',
                         fontWeight: '200',

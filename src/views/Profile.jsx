@@ -432,7 +432,7 @@ function Profile() {
                             mb: '50px',
 
                             '&:hover':
-                                { backgroundColor: '#FFD700' }
+                                { backgroundColor: '#2f2f2f' }
                         }}>
                             SUBMIT
                         </Button>

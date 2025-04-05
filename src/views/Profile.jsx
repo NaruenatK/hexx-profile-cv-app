@@ -10,7 +10,7 @@ import Image2 from '../components/Image2';
 import DownloadButton from './../components/DownloadButton'
 import LinkedInButton from '../components/LinkedInButton';
 import GitHubButton from '../components/GitHubButton';
-import CustomChip from "../Components/CustomChip";
+import CustomChip from "../components/CustomChip";
 import ImportContactsIcon from '@mui/icons-material/ImportContacts';
 import StarsIcon from '@mui/icons-material/Stars';
 
